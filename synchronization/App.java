@@ -1,6 +1,7 @@
-import classes.A;
-import classes.B;
-import classes.C;
+package synchronization;
+import synchronization.classes.A;
+import synchronization.classes.B;
+import synchronization.classes.C;
 
 public class App {
 

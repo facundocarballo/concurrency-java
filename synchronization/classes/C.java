@@ -1,9 +1,9 @@
-package classes;
+package synchronization.classes;
 
-public class B implements Runnable {
+public class C implements Runnable {
     private A a;
 
-    public B(A a) {
+    public C(A a) {
         this.a = a;
     }
 

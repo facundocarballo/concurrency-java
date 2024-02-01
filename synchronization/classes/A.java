@@ -1,4 +1,4 @@
-package classes;
+package synchronization.classes;
 
 public class A {
     private int number;
